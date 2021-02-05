@@ -14,10 +14,10 @@
 **My Projects**
 | Name | Skills |
 | ---- | ---- |
-| [Predicting Property Price Application in Belgium](https://github.com/DonaldKLee) | python, flask, docker, heroku, json, html|
-| [Predicting Property Price Application in Belgium](https://github.com/DonaldKLee) | python, flask, docker, heroku, json, html|
-| [Predicting Property Price Application in Belgium](https://github.com/DonaldKLee) | python, flask, docker, heroku, json, html|
-| [Predicting Property Price Application in Belgium](https://github.com/DonaldKLee) | python, flask, docker, heroku, json, html|
+| [Predicting Property Price Application in Belgium](https://github.com/mremreozan/Data-Scientist-Projects/tree/master/Predicting%20Property%20Price%20Application%20in%20Belgium) | python, flask, docker, heroku, json, html, machine learning algorithm|
+| [Scin Care Mole Detection Application](https://github.com/mremreozan/Data-Scientist-Projects/tree/master/Scin%20Care%20Mole%20Detection%20Application) | python, deep learning, flask, image classification, docker, heroku, html|
+| [Web Scraping Data from Immoweb](https://github.com/mremreozan/Data-Scientist-Projects/tree/master/Web%20Scraping%20Data%20from%20Immoweb) | python, selenium, beautifulsoup, web driver, sklearn|
+| [Data Analysis and Data Visualization of Food Delivery Dataset in USA]() | python, data visualization|
 
 ## Skills
 - 👨‍💻 Python, Flask, PySpark, Power BI
