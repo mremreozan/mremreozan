@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on **Becode as a Junior Data Scinetist in Brussels**
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning on **GCP** and**AWS**
 - 🌱 I’m currently devoping myself on **Image Recognition and NLP (Natural Language Processing)**
 - 💬 Ask me about **Python, Git and SQL**
 - 📫 How to reach me: mremreozan@gmail.com
