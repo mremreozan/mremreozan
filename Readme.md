@@ -8,7 +8,7 @@
 - 💬 Ask me about **Python, Git and SQL**
 - 📫 How to reach me: mremreozan@gmail.com
 - ⚡ Fun fact: Big Fan of the :zap: [huggingface](https://huggingface.co/)
-- Another Skills: Flask, Django, PySpark, Hadoop, Power BI, Docker, Kubernetes, Pentaho, Alteryx, WebPivotTables
+- Another Skills: Flask, Django, PySpark, Hadoop, Power BI, Docker, Kubernetes, Pentaho, Alteryx, WebPivotTable
 
 -------
 
