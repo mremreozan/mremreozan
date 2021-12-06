@@ -5,6 +5,7 @@
   - 🔭 I’m currently working on **I-care Group as a Data Scientist in Mons**
 - 🌱 I’m currently learning on **GCP** and **AWS**
 - 🌱 I’m currently devoping myself on **Image Recognition and NLP (Natural Language Processing)**
+- 🌱 I am able to use **Kubernetes** for the deployment
 - 💬 Ask me about **Python, Git and SQL**
 - 📫 How to reach me: mremreozan@gmail.com
 - ⚡ Fun fact: Big Fan of the :zap: [huggingface](https://huggingface.co/)
