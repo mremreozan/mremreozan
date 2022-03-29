@@ -2,7 +2,7 @@
 <p><a href="https://www.linkedin.com/in/mremreozan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
 
-  - 🔭 I’m currently working on **I-care Group as a Data Scientist in Mons**
+  - 🔭 I’m currently working at **I-care Group as a Data Scientist in Mons**
 - 🌱 I’m currently learning on **GCP** and **AWS**
 - 🌱 I’m currently devoping myself on **Image Recognition and NLP (Natural Language Processing)**
 - 🌱 I am able to use **Kubernetes** for the deployment
